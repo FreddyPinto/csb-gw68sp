@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://freddypinto.github.io/csb-gw68sp/static/css/main.8aa0043f.chunk.css",
+    "main.js": "https://freddypinto.github.io/csb-gw68sp/static/js/main.57aaa697.chunk.js",
+    "main.js.map": "https://freddypinto.github.io/csb-gw68sp/static/js/main.57aaa697.chunk.js.map",
+    "runtime-main.js": "https://freddypinto.github.io/csb-gw68sp/static/js/runtime-main.d6525aa4.js",
+    "runtime-main.js.map": "https://freddypinto.github.io/csb-gw68sp/static/js/runtime-main.d6525aa4.js.map",
+    "static/js/2.89a41c09.chunk.js": "https://freddypinto.github.io/csb-gw68sp/static/js/2.89a41c09.chunk.js",
+    "static/js/2.89a41c09.chunk.js.map": "https://freddypinto.github.io/csb-gw68sp/static/js/2.89a41c09.chunk.js.map",
+    "index.html": "https://freddypinto.github.io/csb-gw68sp/index.html",
+    "precache-manifest.a4ccfe6a26d0359230a97df4e3eac55e.js": "https://freddypinto.github.io/csb-gw68sp/precache-manifest.a4ccfe6a26d0359230a97df4e3eac55e.js",
+    "service-worker.js": "https://freddypinto.github.io/csb-gw68sp/service-worker.js",
+    "static/css/main.8aa0043f.chunk.css.map": "https://freddypinto.github.io/csb-gw68sp/static/css/main.8aa0043f.chunk.css.map",
+    "static/js/2.89a41c09.chunk.js.LICENSE.txt": "https://freddypinto.github.io/csb-gw68sp/static/js/2.89a41c09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6525aa4.js",
+    "static/js/2.89a41c09.chunk.js",
+    "static/css/main.8aa0043f.chunk.css",
+    "static/js/main.57aaa697.chunk.js"
+  ]
+}
